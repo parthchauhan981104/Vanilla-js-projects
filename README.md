@@ -1,5 +1,5 @@
 # Vanilla-js-projects
-20 simple vanilla JavaScript projects that I made along with Brad Traversy's (Udemy) course.
+Simple vanilla JavaScript projects that I made to learn JS basics like DOM manipulation, Async JS, API requests. <br>
 Download individual project folder using the tool here: http://kinolien.github.io/gitzip/
 <br>
 <h2>Deploy Links</h2>
@@ -15,3 +15,4 @@ Download individual project folder using the tool here: http://kinolien.github.i
 	<li>Custom Music Player - https://custom-music-player-parth.netlify.app</li>
 	<li>Custom Video Player - https://custom-video-player-parth.netlify.app</li>
 </ul>
+<h5>Thanks Brad Traversy</h5>
